@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 #### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,html,python,figma,laravel,php&theme=light)](https://skillicons.dev)
+
+
+![Angelina's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelinasitumorang2005-svg&show_icons=true&theme=radical)
