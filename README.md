@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##### Skills
+#### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,html,python,figma,laravel,php&theme=light)](https://skillicons.dev)
-
-
-##### My Github Stats
-
-[![Angelina's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelinasitumorang)]
-
